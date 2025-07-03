@@ -22,5 +22,6 @@ This approach ensures the microcontroller responds immediately, regardless of th
 This type of interrupt-driven control is commonly used in real-time systems like emergency alerts, security alarms, and reactive embedded devices.
 
 #OUTPUT : 
+https://github.com/user-attachments/assets/d8dc8510-4fc0-46a5-bc70-769c3d235be7
 
 
